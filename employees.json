@@ -1,0 +1,7 @@
+[
+    { "EmployeeID": "E02001", "Name": "Alice", "Department": "HR", "Gender": "Female" },
+    { "EmployeeID": "E02002", "Name": "Bob", "Department": "IT", "Gender": "Male" },
+    { "EmployeeID": "E08064", "Name": "Annamalai", "Department": "IT", "Gender": "Male" }
+
+  ]
+  
